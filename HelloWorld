@@ -1,0 +1,11 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+string* pString_to_array(string expression_string);
+string solving_expression(string* pExpression_string_array);
+string array_to_string(string* Expression_string_array, string result);
+
+int main (){
+    return 0;
+}
